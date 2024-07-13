@@ -4,6 +4,8 @@
 
 **CorpTeams** é uma plataforma que permite **organizar times** dentro de uma organização, facilitando a gestão de projetos e departamentos entre as equipes.
 
+Este repositório implementa uma REST API que disponibiliza rotas de acesso aos dados do sistema CorpTeams. Esta API foi desenvolvida usando Flask e SQLite como banco dados em um contêiner Docker.
+
 ### Funcionalidade
 - **Gerenciamento de Equipes**: Cria e gerencia equipes com facilidade.
 
@@ -34,5 +36,5 @@ Acesse `http://localhost:5000` no seu navegador para confirmar se o servidor est
 
 ## Arquitetura
 
-![Arquitetura_Projeto](https://github.com/user-attachments/assets/7c7207c5-6d6b-4b06-b67f-fcfa1c10fd1f)
+![Arquitetura_Projeto](https://github.com/user-attachments/assets/cfaaaa50-9b31-4b66-8d13-bd34cc79373e)
 
